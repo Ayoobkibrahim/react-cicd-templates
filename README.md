@@ -24,3 +24,9 @@ The workflows are designed for **cross-repository reuse**, enabling consistent, 
 - Automated release management
 
 ---
+## 📂 Repository Structure
+
+.github/
+└── workflows/
+├── reusable-ci.yaml
+└── reusable-cd.yaml
